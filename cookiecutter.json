@@ -1,8 +1,14 @@
 {
+	"root_folder": "iot-hub-python-get-started",
 	"host_name": "",
 	"iothubowner_policy_key": "",
 	"device_policy_key": "",
 	"_visual_studio": {
+		"root_folder": {
+			"label": "Root Folder",
+			"description": "Root folder for the sample",
+			"selector": "string"
+		},
 		"host_name": {
 			"label": "Host Name",
 			"description": "The Azure IOT Hub host name",
