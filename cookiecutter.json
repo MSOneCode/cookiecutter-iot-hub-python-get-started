@@ -1,0 +1,22 @@
+﻿{
+	"host_name": "",
+	"iothubowner_policy_key": "",
+	"device_policy_key": "",
+	"_visual_studio": {
+		"host_name": {
+			"label": "Host Name",
+			"description": "The Azure IOT Hub host name",
+			"selector": "string"
+		},
+		"iothubowner_policy_key": {
+			"label": "IOT Hubowner Policy Key",
+			"description": "IOT Hub owner policy key",
+			"selector": "string"
+		},
+		"device_policy_key": {
+			"label": "IOT Hub device Policy Key",
+			"description": "IOT Hub device policy key",
+			"selector": "string"
+		}
+	}
+}
